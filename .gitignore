@@ -1,0 +1,10 @@
+.env
+pet-adoption-dataset/
+node_modules/
+images/logos/
+apiKey.js
+newapp.js
+logs/
+route.rest
+js/oldScraper.js
+
